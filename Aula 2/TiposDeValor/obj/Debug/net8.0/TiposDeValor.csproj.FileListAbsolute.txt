@@ -1,0 +1,15 @@
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\bin\Debug\net8.0\TiposDeValor.exe
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\bin\Debug\net8.0\TiposDeValor.deps.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\bin\Debug\net8.0\TiposDeValor.runtimeconfig.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\bin\Debug\net8.0\TiposDeValor.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\bin\Debug\net8.0\TiposDeValor.pdb
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.AssemblyInfoInputs.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.AssemblyInfo.cs
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.csproj.CoreCompileInputs.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.sourcelink.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\refint\TiposDeValor.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.pdb
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\TiposDeValor.genruntimeconfig.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 2\TiposDeValor\obj\Debug\net8.0\ref\TiposDeValor.dll
