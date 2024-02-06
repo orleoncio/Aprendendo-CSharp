@@ -1,0 +1,15 @@
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\bin\Debug\net8.0\OperacoesAritimeticas.exe
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\bin\Debug\net8.0\OperacoesAritimeticas.deps.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\bin\Debug\net8.0\OperacoesAritimeticas.runtimeconfig.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\bin\Debug\net8.0\OperacoesAritimeticas.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\bin\Debug\net8.0\OperacoesAritimeticas.pdb
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.AssemblyInfoInputs.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.AssemblyInfo.cs
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.csproj.CoreCompileInputs.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.sourcelink.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\refint\OperacoesAritimeticas.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.pdb
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\OperacoesAritimeticas.genruntimeconfig.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 6\OperacoesAritimeticas\obj\Debug\net8.0\ref\OperacoesAritimeticas.dll
