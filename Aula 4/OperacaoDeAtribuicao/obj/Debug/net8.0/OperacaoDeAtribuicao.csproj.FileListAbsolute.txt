@@ -1,0 +1,15 @@
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\bin\Debug\net8.0\OperacaoDeAtribuicao.exe
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\bin\Debug\net8.0\OperacaoDeAtribuicao.deps.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\bin\Debug\net8.0\OperacaoDeAtribuicao.runtimeconfig.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\bin\Debug\net8.0\OperacaoDeAtribuicao.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\bin\Debug\net8.0\OperacaoDeAtribuicao.pdb
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.AssemblyInfo.cs
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.sourcelink.json
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\refint\OperacaoDeAtribuicao.dll
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.pdb
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\OperacaoDeAtribuicao.genruntimeconfig.cache
+C:\Users\orleo\Documents\GitHub\C#\Aprendendo-CSharp\Aula 4\OperacaoDeAtribuicao\obj\Debug\net8.0\ref\OperacaoDeAtribuicao.dll
